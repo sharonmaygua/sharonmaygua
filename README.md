@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-family: Arial, sans-serif;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Hello/Hi.gif" alt="Hello" />
   <br>
   <br>
@@ -22,7 +22,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="20" height="20" />
   </a>
 </p>
-
 
 
 <!--
