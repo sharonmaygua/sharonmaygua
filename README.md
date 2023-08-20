@@ -1,4 +1,4 @@
-<p align="center" style="font-family: Arial, sans-serif; font-size: 18px;">
+<p align="center" style="font-family: Arial, sans-serif; font-size: 25px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Hello/Hi.gif" alt="Hello" />
   <br>
   <br>
