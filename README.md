@@ -1,27 +1,25 @@
-<h1 align="center">
-  Hello there!👾, I'm Sha
-</h1>
-
-<h3 align="center">
-  Passionate about learning, AI, and problem solving
-</h3>
-
-<h3 align="center">
-  Find me on:
-</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/sharonmaygua" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharonmaygua" height="20" width="25" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Hello/Hi.gif" alt="Hello" />
+  <br>
+  <br>
+  <samp><b>Hello there!👾, I'm Sha</b></samp>
+  <br>
+  <samp><b>A lover of learning, AI and problem solving</b></samp>
+  <br>
+  <br>
+  <samp><b>You can also find me on:</b></samp>
+  <br>
+  <a href="https://linkedin.com/in/sharonmaygua" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20" />
   </a>
-  <a href="https://kaggle.com/sharonmayguaai" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sharonmayguaai" height="20" width="25" />
+  <a href="https://kaggle.com/sharonmayguaai" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="20" height="20" />
   </a>
-  <a href="https://instagram.com/shasara_mm" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shasara_mm" height="20" width="25" />
+  <a href="https://instagram.com/shasara_mm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="20" height="20" />
   </a>
-  <a href="https://medium.com/@sharon.maygua.mendiola" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sharon.maygua.mendiola" height="20" width="25" />
+  <a href="https://medium.com/@sharon.maygua.mendiola" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="20" height="20" />
   </a>
 </p>
 
