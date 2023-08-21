@@ -3,10 +3,11 @@
 </p>
 
 <h2 align="center">Hello there!👾, I'm Sha</h2>
-<p align="center">A lover of learning, AI and problem solving</p>
+<p align="center"><em>A lover of learning, AI and problem solving</em></p>
 
-<h3 align="center">You can also find me on:</h3>
-<p align="center">
+<p align="center" style="font-size: 14px;">
+  <strong>You can also find me on:</strong>
+  <br>
   <a href="https://linkedin.com/in/sharonmaygua" target="_blank">LinkedIn</a> |
   <a href="https://kaggle.com/sharonmayguaai" target="_blank">Kaggle</a> |
   <a href="https://instagram.com/shasara_mm" target="_blank">Instagram</a> |
