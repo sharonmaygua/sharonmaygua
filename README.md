@@ -6,14 +6,21 @@
 <p align="center"><em>A lover of learning, AI and problem solving</em></p>
 
 <p align="center" style="font-size: 14px;">
-  <strong>You can also find me on:</strong>
+  <strong style="font-size: 16px;">You can also find me on:</strong>
   <br>
-  <a href="https://linkedin.com/in/sharonmaygua" target="_blank">LinkedIn</a> |
-  <a href="https://kaggle.com/sharonmayguaai" target="_blank">Kaggle</a> |
-  <a href="https://instagram.com/shasara_mm" target="_blank">Instagram</a> |
-  <a href="https://medium.com/@sharon.maygua.mendiola" target="_blank">Medium</a>
+  <a href="https://linkedin.com/in/sharonmaygua" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20" />
+  </a>
+  <a href="https://kaggle.com/sharonmayguaai" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="20" height="20" />
+  </a>
+  <a href="https://instagram.com/shasara_mm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="20" height="20" />
+  </a>
+  <a href="https://medium.com/@sharon.maygua.mendiola" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="20" height="20" />
+  </a>
 </p>
-
 
 
 <!--
