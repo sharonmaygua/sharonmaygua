@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hello there!👾, I'm Sha</h2>
-<p align="center"><em>A lover of learning, AI and problem solving</em></p>
+<p align="center">A lover of learning, AI and problem solving</p>
 
 <p align="center" style="font-size: 14px;">
   <strong style="font-size: 16px;">You can also find me on:</strong>
